@@ -1,0 +1,8 @@
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodEntities\bin\Debug\netcoreapp3.0\OdeToFoodEntities.deps.json
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodEntities\bin\Debug\netcoreapp3.0\OdeToFoodEntities.dll
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodEntities\bin\Debug\netcoreapp3.0\OdeToFoodEntities.pdb
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodEntities\obj\Debug\netcoreapp3.0\OdeToFoodEntities.csprojAssemblyReference.cache
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodEntities\obj\Debug\netcoreapp3.0\OdeToFoodEntities.AssemblyInfoInputs.cache
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodEntities\obj\Debug\netcoreapp3.0\OdeToFoodEntities.AssemblyInfo.cs
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodEntities\obj\Debug\netcoreapp3.0\OdeToFoodEntities.dll
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodEntities\obj\Debug\netcoreapp3.0\OdeToFoodEntities.pdb

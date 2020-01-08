@@ -1,0 +1,13 @@
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\bin\Debug\netcoreapp3.0\OdeToFood.DataSQL.deps.json
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\bin\Debug\netcoreapp3.0\OdeToFood.DataSQL.runtimeconfig.json
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\bin\Debug\netcoreapp3.0\OdeToFood.DataSQL.runtimeconfig.dev.json
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\bin\Debug\netcoreapp3.0\OdeToFood.DataSQL.dll
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\bin\Debug\netcoreapp3.0\OdeToFood.DataSQL.pdb
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\bin\Debug\netcoreapp3.0\OdeToFoodEntities.dll
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\bin\Debug\netcoreapp3.0\OdeToFoodEntities.pdb
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\obj\Debug\netcoreapp3.0\OdeToFood.DataSQL.csprojAssemblyReference.cache
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\obj\Debug\netcoreapp3.0\OdeToFood.DataSQL.AssemblyInfoInputs.cache
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\obj\Debug\netcoreapp3.0\OdeToFood.DataSQL.AssemblyInfo.cs
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\obj\Debug\netcoreapp3.0\OdeToFood.DataSQL.csproj.CopyComplete
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\obj\Debug\netcoreapp3.0\OdeToFood.DataSQL.dll
+C:\Users\Rasha.Sayed\source\repos\OdeToFood.DataSQL\obj\Debug\netcoreapp3.0\OdeToFood.DataSQL.pdb

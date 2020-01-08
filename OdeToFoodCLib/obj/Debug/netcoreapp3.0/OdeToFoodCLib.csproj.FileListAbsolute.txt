@@ -1,0 +1,8 @@
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodCLib\bin\Debug\netcoreapp3.0\OdeToFoodCLib.deps.json
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodCLib\bin\Debug\netcoreapp3.0\OdeToFoodCLib.dll
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodCLib\bin\Debug\netcoreapp3.0\OdeToFoodCLib.pdb
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodCLib\obj\Debug\netcoreapp3.0\OdeToFoodCLib.csprojAssemblyReference.cache
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodCLib\obj\Debug\netcoreapp3.0\OdeToFoodCLib.AssemblyInfoInputs.cache
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodCLib\obj\Debug\netcoreapp3.0\OdeToFoodCLib.AssemblyInfo.cs
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodCLib\obj\Debug\netcoreapp3.0\OdeToFoodCLib.dll
+C:\Users\Rasha.Sayed\source\repos\OdeToFoodCLib\obj\Debug\netcoreapp3.0\OdeToFoodCLib.pdb

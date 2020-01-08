@@ -1,0 +1,4 @@
+C:\Users\Rasha.Sayed\source\repos\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.RazorAssemblyInfo.cache
+C:\Users\Rasha.Sayed\source\repos\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.RazorAssemblyInfo.cs
+C:\Users\Rasha.Sayed\source\repos\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.AssemblyInfoInputs.cache
+C:\Users\Rasha.Sayed\source\repos\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.AssemblyInfo.cs

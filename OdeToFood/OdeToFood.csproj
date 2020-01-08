@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Reference Include="OdeToFood.DataSQL">
+      <HintPath>..\OdeToFood.DataSQL\bin\Debug\netcoreapp3.0\OdeToFood.DataSQL.dll</HintPath>
+    </Reference>
+    <Reference Include="OdeToFoodEntities">
+      <HintPath>..\OdeToFoodEntities\bin\Debug\netcoreapp3.0\OdeToFoodEntities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
